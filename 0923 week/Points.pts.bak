@@ -1,0 +1,58 @@
+ENVT0100,LM:2025/09/26 01:26:20:709,DS:0000000803,CS:00264,MA:00-09-0F-AA-00-01,EI:           
+sVersion="1.0.0"
+nDisplayMode=4
+nNumberOfPoints=3
+Point1 {
+	nNumber=0
+	sLabel="zero"
+	sDescription="original"
+	rX=0
+	rY=415
+	rZ=570
+	rU=0
+	rV=-90
+	rW=-90
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
+Point2 {
+	nNumber=1
+	sLabel="left"
+	sDescription=""
+	rX=184.874
+	rY=385.146
+	rZ=249.959
+	rU=51.169
+	rV=-24.147
+	rW=-174.191
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
+Point3 {
+	nNumber=2
+	sLabel="middle"
+	sDescription=""
+	rX=-10.129
+	rY=427.099
+	rZ=249.959
+	rU=78.169
+	rV=-24.147
+	rW=-174.191
+	nLocal=0
+	nHand=1
+	nElbow=1
+	nWrist=1
+	nJ4Flag=0
+	nJ6Flag=0
+	bSimVisible=False
+}
